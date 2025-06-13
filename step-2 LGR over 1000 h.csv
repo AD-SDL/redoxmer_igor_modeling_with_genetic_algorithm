@@ -1,0 +1,349 @@
+name,*binary.y1,status,smiles,full_name,class
+TFSAD,1,1,O=C1OC(=O)C(F)(F)C1(F)F,tetrafluorosuccinic anhydride,ester
+TFEE,1,1,FC(F)C(F)(F)OCCOC(F)(F)C(F)F,"1,2-(1,1,2,2-tetrafluoroethoxy) ethane",ether
+DFEMC,1,1,COC(=O)OCC(F)F,"2,2-difluoroethyl methyl carbonate",carbonate
+BEFC,1,1,O=C(OCC(F)(F)F)OCC(F)(F)F,"bis(2,2,2-trifluoroethyl) carbonate",carbonate
+FEC,1,1,O=C1OCC(F)O1,fluoroethylene carbonate,carbonate
+EMS,1,1,CCS(C)(=O)=O,ethyl methyl sulfone,SO
+TeFPMC,1,1,COC(=O)OCC(F)(F)C(F)F,"methyl 2,2,3,3-tetrafluoropropyl carbonate",carbonate
+FEMC,1,1,COC(=O)OCC(F)(F)F,"methyl 2,2,2-trifluoroethyl carbonate",carbonate
+DiFEC,1,1,O=C1OC(F)C(F)O1,"trans- ans cis-4,5-Difluoro-1,3-dioxolan-2-one",carbonate
+PrSO,1,1,O=S1(=O)C=CCO1,"prop-1-ene-1,3-sultone",SO
+NO2iP,1,1,CC(C)[N+](=O)[O-],iso-nitropropane,nitro
+FTEG,1,1,OCC(F)(F)OC(F)(F)C(F)(F)OC(F)(F)CO,"2-[2-(1,1-difluoro-2-hydroxyethoxy)-1,1,2,2-tetrafluoroethoxy]-2,2-difluoroethanol",Ol
+TTE,1,1,FC(F)C(F)(F)COC(F)(F)C(F)F,"1,1,2,2-tetrafluoroethyl-2,2,3,3-tetrafluoropropyl ether",ether
+MeCN,1,1,CC#N,acetonitrile as reagent,nitrile
+TFTHF,1,1,FC1(F)COCC1(F)F,"3,3,4,4-tetrafluorotetrahydrofuran",ether
+OFE,1,1,FC(F)C(F)(F)OCC(F)(F)C(F)(F)C(F)(F)C(F)F,"1H,1H,5H-octafluoropentyl-1,1,2,2-tetrafluoroethyl ether",ether
+TFEAc,1,1,CC(=O)OCC(F)(F)F,"2,2,2-trifluoroethyl acetate",ester
+TFEL,1,1,OCC(F)(F)F,trifluoroethanol,Ol
+BTFE,1,1,FC(F)(F)COCC(F)(F)F,"bis(2,2,2-trifluoroethyl) ether",ether
+SU,1,1,O=S1(=O)CCCC1,sulfolane,SO
+EPA,1,1,CCOC(=O)CC,ethyl propionate,ester
+NO2P,1,1,CCC[N+](=O)[O-],nitropropane,nitro
+FDMB,1,1,COCC(F)(F)C(F)(F)COC,"2,2,3,3-tetrafluoro-dimethoxybutane",ether
+NBN,1,1,CCCC#N,butyronitrile,nitrile
+MPA,0,1,CCC(=O)OC,methyl propionate,ester
+DPS,0,1,CCCS(=O)(=O)CCC,dipropyl sulfone,SO
+TFTAc,0,1,O=C(OCC(F)(F)F)C(F)(F)F,"2,2,2-trifluoroethyl trifluoroacetate",ester
+2PFP,0,1,OCC(F)(F)C(F)(F)F,"2,2,3,3,3-pentafluoro-1-propanol",Ol
+EMC,0,1,CCOC(=O)OC,ethyl methyl carbonate,carbonate
+TMSN,0,1,CC(C)(C#N)C(C)(C)C#N,"2,2,3,3-tetramethylsuccinonitrile",nitrile
+HFMPL,0,1,CC(O)(C(F)(F)F)C(F)(F)F,"1,1,1,3,3,3-hexafluoro-2-methyl-2-propanol",Ol
+NO25,0,1,CCCCC[N+](=O)[O-],1-nitropentane,nitro
+ETFE,0,1,CCOC(F)(F)C(F)F,"ethyl 1,1,2,2-tetrafluoroethyl ether",ether
+PC,0,1,CC1COC(=O)O1,propylene carbonate,carbonate
+EBA,0,1,CCCCC(=O)OC,ethyl butyrate,ester
+P14TFSI,0,1,,,nan
+ETFPA,0,1,CCOC(=O)CC(F)(F)F,"ethyl 3,3,3-trifluoropropanoate",ester
+FACN,0,1,N#CCF,fluoroacetonitrile,nitrile
+DOXO,0,1,O=C1OCCCO1,"1,3-dioxan-2-one",carbonate
+ECA,0,1,CCOC(=O)CC#N,ethyl cyanoacetate,ester
+TFPL,0,1,OCC(F)(F)C(F)F,"2,2,3,3-tetrafluoro-1-propanol",Ol
+MiPC,0,1,COC(=O)OC(C)C,methyl isopropyl carbonate,carbonate
+TFEME,0,1,CCOCCOCC(F)(F)F,"1-(2,2,2-trifluoroethoxy)-2-methoxyethane",ether
+DFEAc,0,1,COC(=O)CC(F)F,"2,2-difluoroethylacetate",ester
+PS,0,1,CC1COS(=O)O1,propylene sulfite,SO
+EtVA,0,1,CCCCC(=O)OCC,ethyl valerate,ester
+BPA,0,1,CCCCOC(=O)CC,n-butyl propionate,ester
+PrAc,0,1,CCCOC(C)=O,propyl acetate,ester
+TEGDME,0,1,COCCOCCOCCOC,triethylene glycol dimethyl ether,ether
+DTD6MR,0,1,O=S1(=O)OCCCO1,"1,3-propanediol cyclic sulfate",SO
+DEE,0,1,CCOCCOCC,"1,2-diethoxyethane",ether
+TFP,0,1,O=P(OCC(F)(F)F)(OCC(F)(F)F)OCC(F)(F)F,"tris(2,2,2-trifluoroethyl) phosphate",PO
+EDFEC,0,1,CCOC(=O)OCC(F)F,"2,2-difluoroethyl ethyl carbonate",carbonate
+EiPS,0,1,CCS(=O)(=O)C(C)C,ethyl isopropyl sulfone,SO
+NM,0,1,C[N+](=O)[O-],nitromethane,nitro
+ELV,0,1,CCOC(=O)CCC(C)=O,ethyl levulinate,ester
+BBL,0,1,CC1CC(=O)O1,beta-butyrolactone,ester
+ES,0,1,O=S1OCCO1,ethylene sulfite,SO
+DEC,0,1,CCOC(=O)OCC,diethyl carbonate,carbonate
+DIPC,0,1,CC(C)OC(=O)OC(C)C,diisopropyl carbonate,carbonate
+DMC,0,1,COC(=O)OC,dimethyl carbonate,carbonate
+iBuAc,0,1,CC(=O)OCC(C)C,iso-butyl acetate,ester
+DEOM,0,1,CCOCOCC,diethoxymethane,ether
+DME,0,1,COCCOC,"1,2-dimethoxyethane",ether
+MTFP,0,1,COC(=O)CC(F)(F)F,"methyl 3,3,3-trifluoropropionate",ester
+TMSSO4,0,1,C[Si](C)(C)OS(=O)(=O)O[Si](C)(C)C,bis(trimethylsilyl) sulfate,SO
+PSU,0,1,O=S1(=O)CCCO1,"1,3-propane sultone",SO
+BMGO,0,1,CCCCC1OC(=O)CC1C,beta-methyl-gamma-octanolactone,ester
+12BC,0,1,CCC1COC(=O)O1,"1,2-butylene carbonate",carbonate
+BMS,0,1,CCCCOS(C)(=O)=O,butyl methanesulfonate,ester
+MSAN,0,1,CS(=O)(=O)CC#N,methylsulfonylacetonitrile,nitrile
+DTDMe,0,1,CC1COS(=O)(=O)O1,propylene sulfate,SO
+TFPC,0,1,O=C1OCC(C(F)(F)F)O1,"3,3,3-trifluoropropylene carbonate",carbonate
+iBuF,0,1,CC(C)COC=O,iso-butyl formate,ester
+MCA,0,1,COC(=O)CC#N,methyl cyanoacetate,ester
+CPME,0,1,COC1CCCC1,cyclopentyl methyl ether,ether
+DOX,0,1,C1COCCO1,"1,4-dioxane",ether
+MTBE,0,1,COC(C)(C)C,methyl tert-butyl ether,ether
+TGBNE,0,1,CCCCOCCOCCOCCOC,triethylene glycol butyl methyl ether,ether
+PTBL,0,1,OC(C(F)(F)F)(C(F)(F)F)C(F)(F)F,perfluoro-tert-butanol,Ol
+2MeGN,0,1,CC(C#N)CCC#N,2-methylglutaronitrile,nitrile
+NVN,0,1,CCCCC#N,valeronitrile,nitrile
+TFBN,0,1,N#CCCC(F)(F)F,"4,4,4-trifluorobutyronitrile",nitrile
+MN,0,1,N#CCC#N,malononitrile,nitrile
+C3PN,0,1,N#CCC1CC1,cyclopropylacetonitrile,nitrile
+BTFA,0,1,CCCCOC(=O)C(F)(F)F,n-butyl trifluoroacetate,ester
+MTFB,0,1,COC(=O)CCC(F)(F)F,"methyl 4,4,4-trifluorobutanoate",ester
+MFOP,0,1,CCC(=O)C(F)C(=O)OC,methyl 2-fluoro-3-oxopentanoate,ester
+EFOP,0,1,CCOC(=O)C(F)C(=O)CC,ethyl 2-fluoro-3-oxopentanoate,ester
+EDFP,0,1,CCOC(=O)CCC(C)(F)F,"ethyl 4,4-difluoropentanoate",ester
+HSAN,0,1,CCCCCCS(=O)(=O)CC#N,hexylsulfonylacetonitrile,nitrile
+DMIE,0,1,COC1COC2C(OC)COC12,dimethyl isosorbide,ether
+MDFAc,0,1,COC(=O)C(F)F,methyl difluoroacetate,ester
+DMFM,0,1,COC(=O)C(F)C(=O)OC,dimethyl 2-fluoromalonate,ester
+TFEIE,0,1,CC(C)COC(F)(F)C(F)F,"1,1,2,2-tetrafluoroethyl isobutyl ether",ether
+IVN,0,1,CC(C)CC#N,isovaleronitrile,nitrile
+GBL,0,1,O=C1CCCO1,gamma-butyrolactone,ester
+MTFAc,0,1,COC(=O)C(F)(F)F,methyl trifluoroacetate,ester
+sBuAc,0,1,CCC(C)OC(C)=O,sec-butyl acetate,ester
+EFIB,0,1,CCOC(=O)C(C)(C)F,ethyl 2-fluoroisobutyrate,ester
+DVL,0,1,O=C1CCCCO1,delta-valerolactone,ester
+BDFEC,0,1,O=C(OCC(F)F)OCC(F)F,"bis(2,2-difluoroethyl) carbonate",carbonate
+DEGDE,0,1,CCCCOCCOCCOCCCC,diethylene glycol dibutyl ether,ether
+DMA,0,1,CC(=O)N(C)C,"N,N-dimethylacetamide",amide
+DMF,0,1,CN(C)C=O,"N,N-dimethylformamide",amide
+DMSO,0,1,CS(C)=O,dimethylsulfoxide,SO
+DMTFA,0,1,CN(C)C(=O)C(F)(F)F,"N,N-dimethyltrifluoroacetamide",amide
+DOL,0,1,C1COCO1,"1,3-dioxolane",ether
+EGDBE,0,1,CCCCOCCOCCCC,ethylene glycol dibutyl ether,ether
+EGHE,0,1,CCCCCCOCCO,ethylene glycol monohexyl ether,ether
+ETFAc,0,1,CCOC(=O)C(F)(F)F,ethyl trifluoroacetate,ester
+HFBL,0,1,OCC(F)(F)C(F)(F)C(F)(F)F,"2,2,3,3,4,4,4-heptafluoro-1-butanol",Ol
+HMPA,0,1,CN(C)P(=O)(N(C)C)N(C)C,hexamethylphosphoramide,amide
+iPrAc,0,1,CC(=O)OC(C)C,iso-propyl acetate,ester
+M3OSD,0,1,COCCOCCO[Si](C)(C)C,"2,2-dimethyl-3,6,9-trioxa-2-siladecane",ether
+MPAm,0,1,CCC(=O)NC,N-methylpropionamide,amide
+NEtAc,0,1,CCNC(C)=O,N-ethylacetamide,amide
+NMO,0,1,CN1CCOC1=O,3-methyl-2-oxazolidinone,amide
+NMP,0,1,CN1CCCC1=O,1-methyl-2-pyrrolidone,amide
+PST,0,1,O=S1OCCCO1,"1,3-propylene sulfite",SO
+TBP,0,1,CCCCOP(=O)(OCCCC)OCCCC,tributyl phosphate,PO
+TEB,0,1,CCOB(OCC)OCC,triethyl borate,BO
+TEGBE,0,1,CCCCOCCOCCOCCO,triethylene glycol monobutyl ether,ether
+TEGDM,0,1,COCCOCCOCCOCCOC,tetraethylene glycol dimethyl ether,ether
+TEGME,0,1,COCCOCCOCCO,triethylene glycol monomethyl ether,ether
+TEOAc,0,1,CCOC(C)(OCC)OCC,triethyl orthoacetate,ether
+TFBL,0,1,OCC(F)(F)C(F)(F)CO,"2,2,3,3-tetrafluoro-1,4-butanediol",Ol
+TMeOEB,0,1,COCCOB(OCCOC)OCCOC,tris(2-methoxyethyl) borate,BO
+TMSPO,0,1,C[Si](C)(C)OP(=O)(O[Si](C)(C)C)O[Si](C)(C)C,tris(trimethylsilyl)phosphate,PO
+TMU,0,1,CN(C)C(=O)N(C)C,tetramethylurea,amide
+TTFEB,0,1,C[Si](C)(C)OB(O[Si](C)(C)C)O[Si](C)(C)C,tris(trimethylsilyl) borate,BO
+DEF,0,1,CCN(C=O)CC,"N,N-diethylformamide",amide
+DTDCF3,0,1,O=S1(=O)OCC(C(F)(F)F)O1,"4-(trifluoromethyl)-1,3,2-dioxathiolane 2,2-dioxide",SO
+EC,0,1,O=C1OCCO1,ethylene carbonate,carbonate
+T2EHP,0,1,CCCCC(CC)COP(=O)(OCC(CC)CCCC)OCC(CC)CCCC,tris(2-ethylhexyl) phosphate,PO
+TAmP,0,1,CCCCCOP(=O)(OCCCCC)OCCCCC,triamyl phosphate,PO
+TEP,0,1,CCOP(=O)(OCC)OCC,triethyl phosphate,PO
+TMB,0,1,COB(OC)OC,trimethyl borate,BO
+TPP,0,1,CCCOP(=O)(OCCC)OCCC,tripropyl phosphate,PO
+AHFBL,0,1,O=C1OCCC1O,alpha-hydroxy-gamma-butyrolactone,ester
+DEtFM,0,1,CCOC(=O)C(F)C(=O)OCC,diethyl fluoromalonate,ester
+DEtMM,0,1,CCOC(=O)C(C)C(=O)OCC,diethyl methylmalonate,ester
+EPFAc,0,1,CCOC(=O)C(F)(F)C(F)(F)F,ethyl pentafluoropropionate,ester
+EPFB,0,1,CCOC(=O)C(F)(F)C(F)(F)C(F)(F)F,ethyl perfluorobutyrate,ester
+ADN,0,1,N#CCCCCC#N,adiponitrile,nitrile
+DMI,0,1,CN1CCN(C)C1=O,"1,3-dimethyl-2-imidazolidinone",amide
+HPC,0,1,O=C1OCC(CO)O1,"4-(hydroxymethyl)-1,3-dioxolan-2-one",carbonate
+MeOTMDXB,0,1,COB1OC(C)(C)C(C)(C)O1,"2-methoxy-4,4,5,5-tetramethyl-1,3,2-dioxaborolane",BO
+PYR,0,1,O=C1CCCN1,2-pyrrolidone,amide
+TePi,0,1,CCOP(OCC)OCC,triethylphosphite,PO
+DEDGME,0,1,COCCOCCOC,diglyme,ether
+EGBE,0,1,CCCCOCCO,ethylene glycol monobutyl ether,ether
+G2E,0,1,CCOCCOCCOCC,diethylene glycol diethyl ether,ether
+MiPS,0,1,CC(C)S(C)(=O)=O,isopropyl methyl sulfone,SO
+TEOF,0,1,CCOC(OCC)OCC,triethyl orthoformate,ether
+TMSOx,0,1,C[Si](C)(C)N1CCOC1=O,3-trimethylsilyl-2-oxazolidinone,amide
+TMSPy,0,1,C[Si](C)(C)N1CCCC1=O,1-trimethylsilyl-2-pyrrolidinone,amide
+TMP,0,1,COP(=O)(OC)OC,trimethyl phosphate,PO
+3MESL,0,1,CC1CCS(=O)(=O)C1,3-methylsulfolane,SO
+BTMSM,0,1,C[Si](C)(C)OC(=O)CC(=O)O[Si](C)(C)C,bis(trimethylsilyl) malonate,ester
+GLN,0,1,N#CCCCC#N,glutaronitrile,nitrile
+DMDO,0,1,Cc1oc(=O)oc1C,"4,5-dimethyl-1,3-dioxol-2-one",ester
+EsBS,0,1,CCS(=O)(=O)CC,diethyl sulfone,SO
+BuS,0,1,CCCCS(=O)CCCC,butyl sulfoxide,SO
+HFTFBL,0,1,OC(C(F)(F)F)(C(F)(F)F)C(O)(C(F)(F)F)C(F)(F)F,"hexafluoro-2,3-bis(trifluoromethyl)-2,3-butanediol",Ol
+iPrF,0,1,CC(C)OC=O,iso-propyl formate,ester
+MFDMC,,2,COC(=O)OCF,Fluoromethyl methyl carbonate,carbonate
+EFEC,,2,CCOC(=O)OCCF,Ethyl fluoroethyl carbonate,carbonate
+MFEMC,,2,COC(=O)OCCF,2-Fluoroethyl methyl carbonate,carbonate
+MPC,,2,CCCOC(=O)OC,Methyl propyl carbonate,carbonate
+FPMC,,2,COC(=O)OCCCF,3-Fluoropropyl methyl carbonate,carbonate
+2FPMC,,2,COC(=O)OCC(C)F,2-Fluoropropyl methyl carbonate,carbonate
+PFPMC,,2,COC(=O)OCC(F)(F)C(F)(F)F,"Methyl 2,2,3,3,3-pentafluoropropyl carbonate",carbonate
+EPC,,2,CCCOC(=O)OCC,Ethyl propyl carbonate,carbonate
+EiPC,,2,CCOC(=O)OC(C)C,Ethyl propan-2-yl carbonate,carbonate
+FPC,,2,O=C1OCC(CF)O1,"4-(Fluoromethyl)-1,3-dioxolan-2-one",carbonate
+23BC,,2,CC1OC(=O)OC1C,"2,3-Butylene carbonate",carbonate
+MPDOX,,2,CCCC1(C)COC(=O)OC1,"5-Methyl-5-propyl-1,3-dioxan-2-one",carbonate
+DPRC,,2,CCCOC(=O)OCCC,Dipropyl carbonate,carbonate
+DBUC,,2,CCCCOC(=O)OCCCC,Dibutyl carbonate,carbonate
+DCPC,,2,CCCCCCCCOC(=O)OCCCCCCCC,Dicaprylyl carbonate,carbonate
+MDOXO,,2,CC1CCOC(=O)O1,"4-Methyl-1,3-dioxan-2-one",carbonate
+EA,,2,CCOC(C)=O,ethylacetate,ester
+MBA,,2,CCCC(=O)OC,methyl butyrate,ester
+GVL,,2,CC1CCC(=O)O1,gamma-valerolactone,ester
+E2FPA,,2,CCOC(=O)C(C)F,Ethyl-2-fluoropropanoate,ester
+EDFA,,2,CCOC(=O)C(F)F,Ethyl difluoroacetate,ester
+MA,,2,COC(C)=O,Methyl acetate,ester
+MMeOA,,2,COCC(=O)OC,Methyl methoxyacetate,ester
+2FEA,,2,CC(=O)OCCF,2-Fluoroethyl acetate,ester
+FGBL,,2,O=C1OCCC1F,2-fluorobutyrolactone,ester
+Me3CP,,2,COC(=O)CCC#N,Methyl-3-cyanopropionate,ester
+BuAc,,2,CCCCOC(C)=O,n-Butyl acetate,ester
+MEF,,2,COC=O,Methyl formate,ester
+ETF,,2,CCOC=O,Ethyl formate,ester
+PrF,,2,CCCOC=O,n-Propyl formate,ester
+BuF,,2,CCCCOC=O,n-Butyl formate,ester
+TrFPMC,,2,COC(=O)OCCC(F)(F)F,"Carbonic acid methyl 3,3,3-trifluoropropyl ester",ester
+nAMAc,,2,CCCCCOC(C)=O,n-Amyl acetate,ester
+iAMAc,,2,CC(=O)OCCC(C)C,isoamyl acetate,ester
+EtiVA,,2,CCOC(=O)CC(C)C,ethyl isovalerate,ester
+MTFPV,,2,COC(=O)C(=O)C(F)(F)F,"Methyl 3,3,3-trifluoropyruvate",ester
+TAC,,2,CC(=O)OCC(COC(C)=O)OC(C)=O,triacetin,ester
+BPL,,2,O=C1CCO1,beta-propiolactone,ester
+AMPA,,2,CCCCCOC(=O)CC,amyl propionate,ester
+BBA,,2,CCCCOC(=O)CCC,n-butyl butyrate,ester
+iBiBA,,2,CC(C)COC(=O)C(C)C,isobutyl isobutyrate,ester
+DMGA,,2,COC(=O)CCCC(=O)OC,dimethylglutarate,ester
+DMAA,,2,COC(=O)CCCCC(=O)OC,dimethyladipate,ester
+DEOA,,2,CCOC(=O)C(=O)OCC,diethyl oxalate,ester
+DBOA,,2,CCCCOC(=O)C(=O)OCCCC,di-n-butyl oxalate,ester
+EEtOPA,,2,CCOCCC(=O)OCC,ethyl 3-ethoxypropionate,ester
+EG2A,,2,CC(=O)OCCOC(C)=O,ethylene glycol diacetate,ester
+EGMEA,,2,COCCOC(C)=O,ethylene glycol monomethyl ether acetate,ester
+EGBEA,,2,CCCCOCCOC(C)=O,ethylene glycol monobutyl ether acetate,ester
+DEGBEA,,2,CCOCCOCCOC(C)=O,diethylene glycol monoethyl ether acetate,ester
+DEGEA,,2,CCCCOCCOCCOC(C)=O,diethylene glycol monobutyl ether acetate,ester
+PGMEA,,2,COCC(C)OC(C)=O,propylene glycol monomethyl ether acetate,ester
+PGEEA,,2,CCOCC(C)OC(C)=O,propylene glycol monoethyl ether acetate,ester
+PGBEA,,2,CCCCOCC(C)OC(C)=O,propylene glycol monobutyl ether acetate,ester
+DPGMEA,,2,COCC(C)OCC(C)OC(C)=O,dipropylene glycol monomethyl ether acetate,ester
+EFAc,,2,CCOC(=O)CF,Ethyl fluoroacetate,ester
+MDFP,,2,COC(=O)C(C)(F)F,"Methyl 2,2-difluoropropanoate",ester
+EFOB,,2,CCOC(=O)C(F)C(C)=O,Ethyl 2-fluoro-3-oxobutanoate,ester
+MFMP,,2,COC(=O)C(C)(C)F,Methyl 2-fluoro-2-methylpropionate,ester
+ETFAA,,2,CCOC(=O)C(C)(F)F,"Ethyl 2,2 difluoropropionate",ester
+EFAA,,2,CCOC(=O)CC(=O)C(F)(F)F,"Ethyl 4,4,4-trifluoroacetoacetate",ester
+DGBL,,2,CC1(C)CCOC1=O,"alpha,alpha-Dimethyl-gamma-butyrolactone",ester
+ECL,,2,O=C1CCCCCO1,epsilon-Caprolactone,ester
+MDHFK,,2,CC1CCOC1=O,3-Methyldihydrofuran-2(3H)-one,ester
+DOSN,,2,O=C1CCC2(CCC(=O)O2)O1,"1,6-Dioxaspiro[4.4]nonane-2,7-dione",ester
+DOSD,,2,O=C1CCC2(CCCCO2)O1,"1,6-Dioxaspiro[4.5]decan-2-one (8CI, 9CI, ACI)",ester
+HTFMPL,,2,CC1CC(C(F)(F)F)C(=O)O1,4-Hydroxy-2-trifluoromethylpentanoic acid lactone,ester
+HTPO,,2,CCCCCCCC1CCCC(=O)O1,6-Heptyltetrahydro-2H-pyran-2-one,ester
+DHC8F,,2,CCCCCCCCC1CCC(=O)O1,Dihydro-5-octyl-2(3H)-furanone,ester
+GUL,,2,CCCCCCCC1CCC(=O)O1,gamma-Undecalactone,ester
+OCHD,,2,O=C1CCCCCCCCCCCCCCO1,Oxacyclohexadecan-2-one,ester
+DHPL,,2,CC1(C)COC(=O)C1=O,"2-Dehydropantolactone, 95%",ester
+GHL,,2,CCC1CCC(=O)O1,gamma-Hexanolactone,ester
+DOCL,,2,CCCC1CCCC(=O)O1,delta-Octalactone,ester
+DFDHP,,2,O=C1CCC(F)(F)C(=O)O1,"3,3-Difluorodihydro-2H-pyran-2,6(3H)-dione",ester
+ACBL,,2,CC(=O)C1CCOC1=O,2-Acetylbutyrolactone,ester
+DTBM,,2,CC(C)(C)OC(=O)CC(=O)OC(C)(C)C,Di-tert-Butyl malonate,ester
+IPTFA,,2,CC(C)OC(=O)C(F)(F)F,Isopropyl trifluoroacetate,ester
+MLV,,2,COC(=O)CCC(C)=O,Methyl levulinate,ester
+DESN,,2,CCOC(=O)CCC(=O)OCC,Diethyl succinate,ester
+EMEA,,2,CCOCCOC,1-Ethoxy-2-methoxyethane,ether
+FEME,,2,COCCOCCF,1-(2-fluoroethoxy)2-methoxyethane,ether
+DFEME,,2,COCCOCC(F)F,"1,1-Difluoro-2-(2-methoxyethoxy)ethane",ether
+EFEE,,2,CCOCCOCCF,1-(2-Fluoroethoxy)-2-ethoxyethane,ether
+EDFEE,,2,CCOCCOCC(F)F,"1-(2,2-Difluoroethoxy)-2-ethoxyethane",ether
+THF,,2,C1CCOC1,tetrahydrofuran,ether
+2MeTHF,,2,CC1CCCO1,2-methyltetrahydrofuran,ether
+2MeDL,,2,CC1OCCO1,"2-methyl-1,3-dioxolane",ether
+4MeDL,,2,CC1COCO1,"4-methyl-1,3-dioxolane",ether
+DMM,,2,COCOC,dimethoxymethane,ether
+DMB,,2,COCCCCOC,dimethoxybutane,ether
+FU,,2,C1=COCC1,Furan,ether
+Et2O,,2,CCOCC,Diethyl ether,ether
+DBE,,2,CCCCOCCCC,dibutyl ether,ether
+DiPrE,,2,CC(C)OC(C)C,diisopropyl ether,ether
+13DOX,,2,C1COCOC1,"1,3-dioxane",ether
+DMDL,,2,CC1(C)OCCO1,"2,2-Dimethyl-1,3-dioxolane",ether
+12C4,,2,C1COCCOCCOCCO1,12-crown-4,ether
+18C6,,2,C1COCCOCCOCCOCCOCCO1,18-Crown-6,ether
+EMDL,,2,CCC1(C)OCCO1,"2-Ethyl-2-methyl-1,3-dioxolane",ether
+24DMDL,,2,CC1COC(C)O1,"2,4-Dimethyl-1,3-dioxolane",ether
+45DMDL,,2,CC1OCOC1C,"4,5-dimethyl-1,3-dioxolane",ether
+MOEM,,2,COCCOCCOCC1(C)COC1,3-((2-(2-Methoxyethoxy)ethoxy)methyl)-3-methyloxetane,ether
+TEOC,,2,CCOC(OCC)(OCC)OCC,Tetraethyl orthocarbonate,ether
+NOVEC7500,,2,CCOC(F)(C(F)(F)C(F)(F)C(F)(F)F)C(F)(C(F)(F)F)C(F)(F)F,"4-ethoxy-1,1,1,2,2,3,3,4,5,6,6,6-dodecafluoro-5-(trifluoromethyl)hexane",ether
+NOVEC7100,,2,COC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,Methyl Nonafluorobutyl Ether,ether
+NOVEC7000,,2,COC(F)(F)C(F)(F)C(F)(F)F,Heptafluoro-1-methoxypropane,ether
+NOVEC7200,,2,CCOC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,Ethyl Nonafluorobutyl Ether,ether
+3MeOACN,,2,COCC#N,3-methoxyacetonitrile,nitrile
+CC3N,,2,N#CC1CC1,cyclopropanonitrile,nitrile
+CC5N,,2,N#CC1CCCC1,cyclopentanonitrile,nitrile
+CC6N,,2,N#CC1CCCCC1,cyclohexanonitrile,nitrile
+3MeOPN,,2,COCCC#N,3-Methoxypropionitrile,nitrile
+EtCNF,,2,CCOC(=O)C#N,Ethyl cyanoformate,nitrile
+3BuOPN,,2,CCCCOCCC#N,3-Butoxypropionitrile,nitrile
+DEtOAN,,2,CCOC(C#N)OCC,Diethoxyacetonitrile,nitrile
+IBN,,2,CC(C)C#N,isobutyronitrile,nitrile
+SN,,2,N#CCCC#N,Succinonitrile,nitrile
+DEPN,,2,CCOC(CC#N)OCC,"3,3-diethoxypropionitrile",nitrile
+EBOBP,,2,N#CCCOCCOCCC#N,"3,3?-[1,2-Ethanediylbis(oxy)]bis[propanenitrile]",nitrile
+BCE,,2,N#CCCOCCC#N,Bis(2-cyanoethyl) ether,nitrile
+PTTPN,,2,N#CCCOCC(COCCC#N)OCCC#N,"3,3?,3??-[1,2,3-Propanetriyltris(oxy)]tris[propanenitrile]",nitrile
+CBN,,2,N#CC1CCC1,Cyclobutanecarbonitrile,nitrile
+3OBN,,2,CC(=O)CC#N,3-Oxobutanenitrile,nitrile
+CDBN,,2,CCC(C=O)(CC)CCC#N,"4-Cyano-2,2-diethylbutyraldehyde",nitrile
+CMTBP,,2,CCCCP(=CC#N)(CCCC)CCCC,Cyanomethylenetributylphosphorane,nitrile
+CAMP,,2,N#CCC(=O)N1CCOCC1,N-Cyanoacetylmorpholine,nitrile
+EOAN,,2,CCOCC#N,Ethoxyacetonitrile,nitrile
+FMPN,,2,CC(C)(F)C#N,2-Fluoro-2-methylpropionitrile,nitrile
+C6N,,2,CCCCCC#N,Hexanenitrile,nitrile
+EOPN,,2,CCOCCC#N,3-Ethoxypropionitrile,nitrile
+MOIBN,,2,COC(C)(C)C#N,2-Methoxyisobutyronitrile,nitrile
+CPCN,,2,N#CC1CCCC1=O,Cyclopentanone-2-carbonitrile,nitrile
+THFN,,2,N#CC1CCOCC1,4-Cyanotetrahydropyran,nitrile
+C7N,,2,CCCCCCC#N,n-Heptanenitrile,nitrile
+DMPN,,2,COC(CC#N)OC,"3,3-Dimethoxypropionitrile",nitrile
+OCHN,,2,N#CC1CCCCC1=O,2-Oxocyclohexanecarbonitrile,nitrile
+C7DN,,2,N#CCCCCCC#N,heptanedinitrile,nitrile
+HLCN,,2,CCCCCCCC#N,Heptyl cyanide,nitrile
+MYAN,,2,N#CCN1CCOCC1,Morpholin-4-ylacetonitrile,nitrile
+DMOBN,,2,COC(CCC#N)OC,"4,4-Dimethoxybutyronitrile",nitrile
+TFCN,,2,N#CC1(C(F)(F)F)CC1,1-(Trifluoromethyl)cyclopropane-1-carbonitrile,nitrile
+DFHN,,2,CC(F)(F)CCCC#N,"5,5-Difluorohexanenitrile",nitrile
+IPSAN,,2,CC(C)S(=O)(=O)CC#N,Isopropylsulfonylacetonitrile,nitrile
+C10N,,2,CCCCCCCCCC#N,Decanenitrile,nitrile
+DFCHAN,,2,N#CCC1CCC(F)(F)CC1,"(4,4-Difluoro-cyclohexyl)-acetonitrile",nitrile
+H3AN,,2,N#CCCCC(C#N)CCC#N,"Hexane-1,3,6-tricarbonitrile",nitrile
+BSAN,,2,CCC(C)S(=O)(=O)CC#N,(Butane-2-sulfonyl)-acetonitrile,nitrile
+MPSA,,2,CC(C)CS(=O)(=O)CC#N,(2-Methyl-propane-1-sulfonyl)-acetonitrile,nitrile
+SBCN,,2,N#CCCCCCCCCC#N,Sebaconitrile,nitrile
+HFBN,,2,N#CC(F)(F)C(F)(F)C(F)(F)F,Heptafluorobutyronitrile,nitrile
+OFPN,,2,N#CC(F)(F)C(F)(F)C(F)(F)C(F)F,"2,2,3,3,4,4,5,5-octafluoropentanenitrile",nitrile
+CHSAN,,2,N#CCS(=O)(=O)C1CCCCC1,Cyclohexanesulfonyl-acetonitrile,nitrile
+TMOAN,,2,N#CCN1CCSCC1,2-Thiomorpholinoacetonitrile,nitrile
+NOVEC4710,,2,N#CC(F)(C(F)(F)F)C(F)(F)F,"2,3,3,3-tetrafluoro-2-(trifluoromethyl)propanenitrile",nitrile
+PNBED,,2,N#CCCOCCOCCOCCC#N,"3,3'-[1,2-Ethanediylbis(oxy)]bis[propanenitrile]",nitrile
+NO2E,,2,CC[N+](=O)[O-],Nitroethane,nitro
+FNO2P,,2,CC(F)C[N+](=O)[O-],2-fluoro-1-nitropropane,nitro
+2-MNP,,2,CC(C)(C)[N+](=O)[O-],2-Methyl-2-nitropropane,nitro
+HFIP,,2,OC(C(F)(F)F)C(F)(F)F,hexafluoroisopropanol,Ol
+4PFP,,2,OCCCC(F)(F)C(F)(F)F,"4,4,5,5,5-Pentafluoro-1-pentanol",Ol
+TFMPL,,2,CC(C)(O)C(F)(F)F,2-Trifluoromethyl-2-propanol,Ol
+DMMP,,2,COP(C)(=O)OC,Dimethyl methylphosphonate,PO
+TiBP,,2,CC(C)COP(=O)(OCC(C)C)OCC(C)C,tri-iso-butyl phosphate,PO
+TsBP,,2,CCC(C)OP(=O)(OC(C)CC)OC(C)CC,tri-sec-butyl phosphate,PO
+TEMDP,,2,CCOP(=O)(CP(=O)(OCC)OCC)OCC,Tetraethyl methylenediphosphonate,PO
+MDEPA,,2,CCOP(=O)(CC(=O)OC)OCC,Methyl diethylphosphonoacetate,PO
+MEMS,,2,COCCS(C)(=O)=O,Methyl(2-methoxyethyl) sulfone,SO
+FMS,,2,CS(=O)(=O)F,Methanesulfonyl fluoride,SO
+FPMS,,2,CC(F)(F)CCS(C)(=O)=O,"1,1,1-Trifluoro-3-(methylsulfonyl)propane",SO
+EiBS,,2,CCS(=O)(=O)CC(C)C,Ethyl isobutyl sulfone,SO
+MTS,,2,CC1CCS1(=O)=O,"2-Methylthietane 1,1-dioxide",SO
+EMES,,2,CCS(=O)(=O)CCOC,1-(Ethanesulfonyl)-2-methoxyethane,SO
+BuSN,,2,CCCCOS(=O)(=O)CCCC,Butyl sultone,SO
+DMS,,2,CS(C)(=O)=O,Dimethyl sulfone,SO
+DTDCO2Me,,2,COC(=O)C1OS(=O)(=O)OC1C(=O)OC,"Dimethyl (4R,5R)-1,3,2-dioxathiolane-4,5-dicarboxylate 2,2-dioxide",SO
+SO4EtO,,2,COCCOS(=O)(=O)OCCOC,bis(2-methoxyethyl) sulfate,SO
+MSEL,,2,CS(=O)(=O)CCO,2-(Methylsulfonyl)ethanol,SO
+MTMD,,2,CN1CCS(=O)(=O)CC1,"4-Methylthiomorpholine 1,1-dioxide",SO
+DTSOD,,2,O=S1(=O)OCC2(CC2)CO1,"5,7-dioxa-6-thiaspiro[2.5]octane 6,6-dioxide",SO
+DTSOO,,2,O=S1OCC2(CC2)CO1,"5,7-Dioxa-6-thia-spiro[2,5]octane-6-oxide",SO
+MEEMS,,2,COCCOCCOS(C)(=O)=O,2-(2-Methoxyethoxy)ethyl methanesulfonate,SO
